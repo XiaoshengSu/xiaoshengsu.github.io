@@ -1,2 +1,2 @@
-# xiaoshengsu.github.io
-my blog 
+# 苏晓生
+但行好事 莫问前程
